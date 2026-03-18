@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @hosseinsadeghi.
-- 👀 I’m interested in quantum computing and building applications.
-- 🌱 I’m currently learning advanced quantum algorithms and machine learning for sequences.
-- 💞️ I’m looking to collaborate on building applications.
-- 📫 How to reach me find me on [LinkedIn](https://www.linkedin.com/in/hosseinsadeghi/).
+# Hi, I'm Hossein
 
-<!---
-hosseinsadeghi/hosseinsadeghi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Physicist and engineer with a focus on **quantum computing**, **machine learning for drug discovery**, and **full-stack development**. I enjoy building tools that bridge research and practical applications.
+
+## Current Projects
+
+- [**eagerq**](https://github.com/hosseinsadeghi/eagerq) -- A simple vector-state gate-model quantum simulator
+- [**qaoa**](https://github.com/hosseinsadeghi/qaoa) -- QAOA quantum algorithm tutorial notebook
+- [**oversampling_vae**](https://github.com/hosseinsadeghi/oversampling_vae) -- VAE for oversampling minority classes in imbalanced datasets
+- [**block-by-pattern-extension**](https://github.com/hosseinsadeghi/block-by-pattern-extension) -- Chrome extension to block websites by URL pattern
+
+## Tech Stack
+
+**Languages:** Python, JavaScript/TypeScript, SQL
+
+**Quantum:** Qiskit, custom simulators
+
+**ML / Data:** PyTorch, scikit-learn, pandas, NumPy
+
+**Web:** React, Node.js, HTML/CSS
+
+**Tools:** Git, Docker, Linux
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hosseinsadeghi-blue?logo=linkedin)](https://www.linkedin.com/in/hosseinsadeghi/)
