@@ -6,7 +6,7 @@
 
 *From quantum hardware & physics → building software & AI today → quantum applications tomorrow*
 
-Physicist and engineer bridging the gap between quantum technology and real-world applications. Currently building classical software and AI tools while laying the groundwork for the quantum computing era.
+Physicist and engineer bridging the gap between quantum technology and real-world applications. Building classical and quantum software today — from AI tools to QPU interfaces and circuit simulators — toward scalable quantum applications tomorrow.
 
 ---
 
