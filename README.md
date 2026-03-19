@@ -4,7 +4,7 @@
 
 ### Aspiring Quantum Software Leader
 
-*From quantum hardware & physics → building software & AI today → quantum applications tomorrow*
+*From quantum hardware & physics → building classical and quantum software today → scalable quantum applications tomorrow*
 
 Physicist and engineer bridging the gap between quantum technology and real-world applications. Building classical and quantum software today — from AI tools to QPU interfaces and circuit simulators — toward scalable quantum applications tomorrow.
 
