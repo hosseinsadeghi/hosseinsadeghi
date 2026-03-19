@@ -102,6 +102,6 @@ Physicist and engineer bridging the gap between quantum technology and real-worl
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hosseinsadeghi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hosseinsadeghi/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hossein.sadeghi.phy@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hosseinsadeghiesfahani@gmail.com)
 
 </div>
