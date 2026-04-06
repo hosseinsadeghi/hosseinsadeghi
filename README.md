@@ -12,26 +12,6 @@ Physicist and engineer bridging the gap between quantum technology and real-worl
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=hosseinsadeghi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosseinsadeghi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</td>
-</tr>
-</table>
-
-<img src="https://streak-stats.demolab.com/?user=hosseinsadeghi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
 ## 🛠 Tech Stack
 
 <div align="center">
@@ -60,39 +40,6 @@ Physicist and engineer bridging the gap between quantum technology and real-worl
 
 <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode&theme=dark" alt="Tools" />
 
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-<table>
-<tr>
-<td>
-<a href="https://github.com/hosseinsadeghi/eagerq">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=hosseinsadeghi&repo=eagerq&theme=tokyonight&hide_border=true" alt="eagerq" />
-</a>
-</td>
-<td>
-<a href="https://github.com/hosseinsadeghi/qaoa">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=hosseinsadeghi&repo=qaoa&theme=tokyonight&hide_border=true" alt="qaoa" />
-</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="https://github.com/hosseinsadeghi/oversampling_vae">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=hosseinsadeghi&repo=oversampling_vae&theme=tokyonight&hide_border=true" alt="oversampling_vae" />
-</a>
-</td>
-<td>
-<a href="https://github.com/hosseinsadeghi/block-by-pattern-extension">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=hosseinsadeghi&repo=block-by-pattern-extension&theme=tokyonight&hide_border=true" alt="block-by-pattern-extension" />
-</a>
-</td>
-</tr>
-</table>
 </div>
 
 ---
