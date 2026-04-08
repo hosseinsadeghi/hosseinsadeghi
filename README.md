@@ -12,6 +12,18 @@ Physicist and engineer bridging the gap between quantum technology and real-worl
 
 </div>
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats-psi-olive-24.vercel.app/api?username=hosseinsadeghi&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats-psi-olive-24.vercel.app/api/top-langs/?username=hosseinsadeghi&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
 ## 🛠 Tech Stack
 
 <div align="center">
